@@ -1,4 +1,8 @@
 [![Build Status](https://travis-ci.org/Etherios/epoxy.svg?branch=master)](https://travis-ci.org/Etherios/epoxy)
+[![Coverage Status](https://img.shields.io/coveralls/Etherios/epoxy.svg)](https://coveralls.io/r/Etherios/epoxy)
+[![Latest Version](https://pypip.in/version/epoxy/badge.svg)](https://pypi.python.org/pypi/epoxy/)
+[![Supported Python versions](https://pypip.in/py_versions/epoxy/badge.svg)](https://pypi.python.org/pypi/epoxy/)
+[![License](https://pypip.in/license/epoxy/badge.svg)](https://pypi.python.org/pypi/epoxy/)
 
 Epoxy
 =====
